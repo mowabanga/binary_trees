@@ -3,6 +3,7 @@ Binary tree DS in C
 A binary tree basically has at most two nodes linked from the parent node
 
 There are four main types of Binary trees:
+	
 	-Full/Proper Binary trees
 	-Complete Binary trees
 	-Perfect Binary trees
@@ -13,7 +14,9 @@ the key of each internal node being greater than all the keys in the respective 
 subtree and less than the ones in the right subtree.
 
 BST time complexity is directly proportional to the height of the tree.
+
 A Binary Tree can be traversed :
+
 	*inorder
 	*preorder
 	*postorder
